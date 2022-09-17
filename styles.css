@@ -169,4 +169,7 @@ main div {
     .kim img {
         width: 15%;
     }
+    header {
+        align-items: center;
+    }
 }
